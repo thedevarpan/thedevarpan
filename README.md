@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [iTools](https://github.com/thecyberarpan/iTools)
 
-- 📝 I regularly write articles on [Arpan](codewitharpan.in)
+- 📝 I regularly write articles on [Arpan](https://codewitharpan.in)
 
 - 📫 How to reach me **instagram.com/cyber.arpan**
 
